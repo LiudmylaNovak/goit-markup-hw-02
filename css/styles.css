@@ -3,7 +3,9 @@ body {
   background-color: #fff;
   color: #434455;
 }
-
+ul, ol {
+	list-style-type: none;
+}
 .logo {
   font-weight: 700;
   font-size: 18px;
