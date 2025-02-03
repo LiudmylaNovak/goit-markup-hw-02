@@ -3,9 +3,11 @@ body {
   background-color: #fff;
   color: #434455;
 }
-ul, ol {
-	list-style-type: none;
-}
+  ul, ol {
+	list-style-type: none;}
+  
+  a {text-decoration: none;}  
+
 .logo {
   font-weight: 700;
   font-size: 18px;
@@ -163,3 +165,5 @@ ul, ol {
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
+
+
